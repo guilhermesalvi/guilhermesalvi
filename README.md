@@ -2,8 +2,10 @@
 
 # Hi! I'm Guilherme Salvi! 👋🏻
 
-I'm a .NET developer and currently venturing on the front end with React.
+As a Senior Software Engineer at XP Inc, I am passionate about developing systems that make a positive impact on people's lives and businesses. I work with C#, Azure, and Apache Kafka to create scalable, reliable, and secure solutions for the credit market in Brazil.
 
-If you look for me right now, I will be developing an application or playing guitar.
+I am also pursuing a graduate degree in Leadership and Management in Technology at Escola Conquer, where I am learning how to lead and manage teams, projects, and innovations in the tech industry. I have a bachelor's degree in Systems Analysis and Development from FIAP, where I gained a solid foundation in software engineering principles and practices. I have multiple certifications in Azure, Kafka, and leadership, and I am always eager to learn new skills and technologies.
 
-Well, if you want to chat with me about programming or have a coffee you can found me on [LinkedIn](https://www.linkedin.com/in/guilhermesalvi/) 📬
+Here on Github you can found my hobby projects, enjoy! 🚀
+
+Check my [LinkedIn](https://www.linkedin.com/in/guilhermesalvi/) 📬
